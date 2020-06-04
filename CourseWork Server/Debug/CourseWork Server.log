@@ -1,0 +1,20 @@
+﻿  CourseWork Server.cpp
+E:\Documents\ИЭФ\курсовая 4 сем\CourseWork Server\ServerClasses.h(86,20): warning C4101: buf1: неиспользованная локальная переменная
+E:\Documents\ИЭФ\курсовая 4 сем\CourseWork Server\ServerClasses.h(86,10): warning C4101: buf: неиспользованная локальная переменная
+E:\Documents\ИЭФ\курсовая 4 сем\CourseWork Server\ServerClasses.h(86,31): warning C4101: s: неиспользованная локальная переменная
+E:\Documents\ИЭФ\курсовая 4 сем\CourseWork Server\ServerClasses.h(163,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\Documents\ИЭФ\курсовая 4 сем\CourseWork Server\ServerClasses.h(203,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\Documents\ИЭФ\курсовая 4 сем\CourseWork Server\ServerClasses.h(200,8): warning C4101: buf: неиспользованная локальная переменная
+E:\Documents\ИЭФ\курсовая 4 сем\CourseWork Server\ServerClasses.h(380,8): warning C4101: buf: неиспользованная локальная переменная
+E:\Documents\ИЭФ\курсовая 4 сем\CourseWork Server\CourseWork Server.cpp(6,29): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+E:\Documents\ИЭФ\курсовая 4 сем\CourseWork Server\CourseWork Server.cpp(17,7): warning C4101: buf: неиспользованная локальная переменная
+E:\Documents\ИЭФ\курсовая 4 сем\CourseWork Server\CourseWork Server.cpp(38,13): warning C4101: lastKey: неиспользованная локальная переменная
+E:\Documents\ИЭФ\курсовая 4 сем\CourseWork Server\CourseWork Server.cpp(175,7): warning C4101: buf: неиспользованная локальная переменная
+E:\Documents\ИЭФ\курсовая 4 сем\CourseWork Server\CourseWork Server.cpp(212,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\Documents\ИЭФ\курсовая 4 сем\CourseWork Server\CourseWork Server.cpp(249,14): warning C4101: scal: неиспользованная локальная переменная
+E:\Documents\ИЭФ\курсовая 4 сем\CourseWork Server\CourseWork Server.cpp(456,7): warning C4101: buf: неиспользованная локальная переменная
+E:\Documents\ИЭФ\курсовая 4 сем\CourseWork Server\CourseWork Server.cpp(540,17): warning C4101: str: неиспользованная локальная переменная
+E:\Documents\ИЭФ\курсовая 4 сем\CourseWork Server\CourseWork Server.cpp(597,17): warning C4101: str: неиспользованная локальная переменная
+E:\Documents\ИЭФ\курсовая 4 сем\CourseWork Server\CourseWork Server.cpp(657,17): warning C4101: buf: неиспользованная локальная переменная
+E:\Documents\ИЭФ\курсовая 4 сем\CourseWork Server\CourseWork Server.cpp(658,6): warning C4101: scal: неиспользованная локальная переменная
+  CourseWork Server.vcxproj -> E:\Documents\ИЭФ\курсовая 4 сем\CourseWork Server\Debug\CourseWork Server.exe
