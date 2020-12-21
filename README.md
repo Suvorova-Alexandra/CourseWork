@@ -2,7 +2,9 @@
 Users can register in the system and can rate a specific solution suggested by the administrator. These assessments help poultry farm make specific decisions.
 ## Technologies
 Language: C++
+<!--comment-->
 Architecture: client-server (TCP/IP)
+<!--comment-->
 Type: console application
 ## Description
 Administrator can:
